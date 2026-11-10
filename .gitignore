@@ -1,0 +1,102 @@
+# Prerequisites
+
+
+
+
+
+target/
+.cmake/
+CMakeCache.txt
+CMakeFiles/
+cmake-install.cmake
+cmake_install.cmake
+
+
+
+
+
+
+# ==========================================
+# 3. DEVELOPMENT ENVIRONMENT AND CONFIGURATIONS
+# ==========================================
+# Code editors (VS Code, Vim, etc.)
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+
+
+
+
+
+# Python virtual environments (if using helper scripts)
+venv/
+env/
+__pycache__/
+*.pyc
+
+
+
+
+
+
+# ==========================================
+# 4. OPERATING SYSTEM FILES
+# ==========================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+
+
+
+
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+
+
+
+
+
+# Linux
+*~
+.directory
+.Trash-*
+
+
+
+
+
+
+# ==========================================
+# 5. CREDENTIALS, LOGS, AND SENSITIVE DATA
+# ==========================================
+# Environment files and secrets
+.env
+.env.local
+*.pem
+*.key
+
+
+
+
+
+
+# Log files and temporary local databases
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+*.sqlite
+*.db
+
+
+
+
